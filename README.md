@@ -27,3 +27,7 @@ yarn build
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
+
+## Vuetify
+
+[how to use vuetify 3 alpha in new nuxt 3 #1183](https://github.com/nuxt/framework/discussions/1183#discussioncomment-1539889), [Robert Soriano](https://github.com/wobsoriano)
